@@ -1,0 +1,9 @@
+const ustad Deo = “kenyang”;
+
+if(ustad Deo === “Kenyang”) {
+Console.log(“ustad Deo Sudan makan”);
+}
+
+if(ustad Deo !== “Kenyang”) {
+Console.log(“ustad Deo belom makan”);
+}
